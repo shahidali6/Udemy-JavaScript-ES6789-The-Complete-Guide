@@ -15,5 +15,13 @@
 console.log('Hello!')
 console.log('World')
 
-console.log('Error Exist')
+console.log('Error Exist');
 [1,2].forEach(console.log)
+
+//Comments
+//Single line comments
+/*multi line comment
+asdfsdf
+asdfasdf
+adf
+*/
