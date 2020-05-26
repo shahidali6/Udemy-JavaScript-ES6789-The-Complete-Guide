@@ -1,7 +1,7 @@
 //Variables
 
 //'use strict' use the JavaScript with old behaviour .
-'use strict';
+//'use strict';
 
 // var ename;
 // ename = 'Sahhid';
@@ -45,3 +45,14 @@
 
 // console.log(message);
 // SayGreeting();
+
+//'use strict'
+
+function SayGreeting()
+{
+    message = 'Hello';
+    console.log(message);
+}
+
+SayGreeting();
+console.log(message);
