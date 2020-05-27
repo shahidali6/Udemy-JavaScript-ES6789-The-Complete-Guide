@@ -1,6 +1,6 @@
 # Udemy - JavaScript + ES6 + ES7 + ES8 + ES9 - The Complete Guide
 
-## Link: https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/
+#### Udemy Course Link: https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/
 
 ## Requirements
 No earlier programming experience is required to master the discussed content.
