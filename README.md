@@ -1,5 +1,7 @@
 # Udemy - JavaScript + ES6 + ES7 + ES8 + ES9 - The Complete Guide
 
+## Link: https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/
+
 ## Requirements
 No earlier programming experience is required to master the discussed content.
 You need to get started with JavaScript is a computer, a browser and a text editor. Use Chrome/ Brackets/ JS Bin for practice.
