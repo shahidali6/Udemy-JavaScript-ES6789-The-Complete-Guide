@@ -94,7 +94,7 @@ Inclining towards the learning/ understanding of any client/ server side program
 
 
 
-Why JavaScript?
+## Why JavaScript?
 
 JavaScript (JS) is a lightweight, interpreted or JIT compiled programming language with first-class functions. Most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js and Apache CouchDB. JS is a prototype-based, multi-paradigm, dynamic scripting language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
 
@@ -116,7 +116,7 @@ Base of most of the frameworks like Angular.
 
 Supported by a broad coalition of companies.
 
-Who this course is for:
+## Who this course is for:
 Be a JS Ninja by understanding the most popular programming language in the world viz. JavaScript.
 Newcomer as well as experienced having the experience with JavaScript (ES5/ ES6) and know the basics of the language.
 Understanding the new Features and Additions, brought by ES6 (including ES5) to JavaScript.
